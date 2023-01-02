@@ -19,7 +19,7 @@ Vidhyapeeth College Of Engineering Pune ](http://bvucoepune.edu.in/). I am a tec
 and an open-source enthusiast. I am always open to collabrating on projects and innovatie ideas.
 <br></br>Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-pratham-khodwe-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-khodwe-31bb00209/)
+[![Linkedin Badge](https://img.shields.io/badge/-prathamkhodwe-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-khodwe-31bb00209/)
 [![Gmail Badge](https://img.shields.io/badge/-prathamkhodwe@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:prathamkhodwe@gmail.com)
 [![Resume Badge](https://img.shields.io/badge/Resume-Pratham%20Khodwe-blue?labelColor=grey)](https://drive.google.com/file/d/1FeelM0rp1uhfUih9HrNR6gmG601TQo1h/view?usp=share_link)
 

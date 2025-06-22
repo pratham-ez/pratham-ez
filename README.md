@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi 👋, I'm Pratham , A Full Stack Developer . Currently pursuing Computer Science and Engineering at BVPCOEP, I am passionate about building scalable and efficient solutions. Always eager to collaborate on innovative projects and ideas.
+Hey! 👋, I'm a full stack developer with a strong focus on building scalable, high-performance backend systems. I’m passionate about crafting clean architecture, resilient APIs, and infrastructure that just works — whether it's handling millions of events or stitching together complex data flows.
+
+Lately, I’ve been diving deep into the world of agentic AI systems, working with tools like CrewAI, Langchain, and vector databases to build smarter, autonomous workflows. I love bridging traditional backend engineering with modern AI to create systems that think, adapt, and scale.
+
+Let’s connect and nerd out on building the future.
 
 
 ## 🌐 Socials:

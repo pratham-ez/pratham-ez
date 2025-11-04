@@ -11,10 +11,14 @@ Let’s connect and nerd out on building the future.
 
 [![An image of @prathamez's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prathamez)](https://holopin.io/@prathamez)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pratham-ez&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pratham-ez&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-ez&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📈 Stats
+<p align="center">
+ <a href="https://github.com/hiteshshimpi-55">
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hiteshshimpi-55&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hiteshshimpi-55&theme=tokyonight" />
+  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hiteshshimpi-55&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pratham-ez&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)

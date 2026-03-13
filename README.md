@@ -13,10 +13,10 @@ Let’s connect and nerd out on building the future.
 
 ## 📈 Stats
 <p align="center">
- <a href="https://github.com/hiteshshimpi-55">
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hiteshshimpi-55&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hiteshshimpi-55&theme=tokyonight" />
-  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hiteshshimpi-55&layout=compact&langs_count=8&theme=algolia"/>
+ <a href="https://github.com/pratham-ez">
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pratham-ez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pratham-ez&theme=tokyonight" />
+  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pratham-ez&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
